@@ -1,0 +1,9 @@
+Name: Mor
+NISN: 234
+Place of Birth: Yogya
+Date of Birth: 25/05/3000
+Gender: L
+Admission Grade: 87
+Subject: social, Grade: 85
+Subject: math, Grade: 75
+Subject: art, Grade: 90

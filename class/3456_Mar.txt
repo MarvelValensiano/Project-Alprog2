@@ -1,0 +1,6 @@
+Name: Mar
+NISN: 3456
+Place of Birth: Yog
+Date of Birth: 23459
+Gender: P
+Admission Grade: 98

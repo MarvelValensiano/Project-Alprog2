@@ -1,0 +1,9 @@
+Name: Marvel
+NISN: 123240019
+Place of Birth: Yogyakarta
+Date of Birth: 24/04/2006
+Gender: L
+Admission Grade: 98
+Subject: MTK, Grade: 87
+Subject: Bindo, Grade: 87
+Subject: GTW, Grade: 89

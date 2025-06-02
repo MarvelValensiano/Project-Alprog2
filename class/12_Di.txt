@@ -1,0 +1,9 @@
+Name: Di
+NISN: 12
+Place of Birth: sa
+Date of Birth: 23/95/2933
+Gender: L
+Admission Grade: 56
+--- Conduct Log ---
+Log: Date: 2006-05-03, Type: Keluar kelas saat jam pelajaran, Note: ya to
+Log: Date: 6666666, Type: derty, Note: ssss

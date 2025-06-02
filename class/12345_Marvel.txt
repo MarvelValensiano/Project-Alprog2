@@ -1,0 +1,9 @@
+Name: Marvel
+NISN: 12345
+Place of Birth: 45
+Date of Birth: Yog
+Gender: L
+Admission Grade: 98
+Subject: MTK, Grade: 96
+Subject: Bindo, Grade: 34
+Subject: IPA, Grade: 87

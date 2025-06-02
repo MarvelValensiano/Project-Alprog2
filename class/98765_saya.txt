@@ -1,0 +1,9 @@
+Name: saya
+NISN: 98765
+Place of Birth: Yog
+Date of Birth: 23/34/56
+Gender: P
+Admission Grade: 86
+--- Conduct Log ---
+Log: Date: 2025-05-05, Type: duar, Note: duar jalan jalan
+Log: Date: 2025-23-33, Type: deww, Note: apa sih
